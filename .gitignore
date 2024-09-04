@@ -1,0 +1,9 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# VSCode workspace settings
+.vscode/
+
+# macOS system files
+.DS_Store
