@@ -52,3 +52,7 @@ Run `test_pa4.py` to execute the test suite, which validates the lexer against m
 - Supports common regex operations like union, concatenation, and Kleene star
 - Handles epsilon transitions when converting NFA to DFA
 - Raises `InvalidToken` exception for unrecognized input
+
+## Acknowledgments
+
+Professor John Glick wrote all test scripts.
